@@ -7,10 +7,10 @@ Dataset (jokes.txt) can be expanded by adding more lines and script will write t
 Run the following commands in your terminal:
 
 ```
-sudo curl "https://github.com/egichSerg/dadjoke-v2.0/tree/main/dadjoke" -o /usr/local/bin/dadjoke && sudo chmod +x /usr/local/bin/dadjoke
+sudo curl "https://raw.githubusercontent.com/egichSerg/dadjoke-v2.0/main/dadjoke" -o /usr/local/bin/dadjoke && sudo chmod +x /usr/local/bin/dadjoke
 ```
 ```
-sudo curl "https://raw.githubusercontent.com/Anupya/dadjoke-cli/tree/main/jokes.txt" -o /usr/local/bin/jokes.txt
+sudo curl "https://raw.githubusercontent.com/egichSerg/dadjoke-v2.0/main/jokes.txt" -o /usr/local/bin/jokes.txt
 ```
 
 ## Usage
