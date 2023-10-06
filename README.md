@@ -4,10 +4,11 @@ Dataset (jokes.txt) can be expanded by adding more lines and script will write t
 
 ## Installation
 
-Run the following command in your terminal:
+Run the following commands in your terminal:
 
 ```
-curl "https://raw.githubusercontent.com/Anupya/dadjoke-cli/master/dadjoke" -o /usr/local/bin/dadjoke && chmod +x /usr/local/bin/dadjoke
+curl "https://raw.githubusercontent.com/Anupya/dadjoke-cli/tree/main/dadjoke" -o /usr/local/bin/dadjoke && chmod +x /usr/local/bin/dadjoke
+curl "https://raw.githubusercontent.com/Anupya/dadjoke-cli/tree/main/jokes.txt" -o /usr/local/bin/jokes.txt
 ```
 
 ## Usage
