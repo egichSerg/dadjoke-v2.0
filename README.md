@@ -8,6 +8,8 @@ Run the following commands in your terminal:
 
 ```
 sudo curl "https://raw.githubusercontent.com/Anupya/dadjoke-cli/tree/main/dadjoke" -o /usr/local/bin/dadjoke && sudo chmod +x /usr/local/bin/dadjoke
+```
+```
 sudo curl "https://raw.githubusercontent.com/Anupya/dadjoke-cli/tree/main/jokes.txt" -o /usr/local/bin/jokes.txt
 ```
 
