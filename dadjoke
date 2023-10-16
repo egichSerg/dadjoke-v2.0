@@ -1,5 +1,2 @@
 #!/bin/bash
-
-FILE="$(dirname -- "$(readlink -f "${BASH_SOURCE}")")/jokes.txt"
-NUM=$(($RANDOM % $(awk 'END { print NR }' $FILE)))
-sed "${NUM}q;d" $FILE
+cat ~/Documents/dadjoke.txt
