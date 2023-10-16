@@ -1,2 +1,2 @@
 #!/bin/bash
-cat ~/Documents/dadjoke.txt
+cat ~/Documents/dadjoke.txt | shuf -n1
